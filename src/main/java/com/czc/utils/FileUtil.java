@@ -18,7 +18,7 @@ import java.util.zip.ZipFile;
  * @author changzhichen
  * @date 2020-04-19 20:51
  */
-public class FileUtils {
+public class FileUtil {
     /**
      * 解压zip文件
      * 压缩文件中存在中文汉字时，能解决解压后中文汉字乱码的情况
